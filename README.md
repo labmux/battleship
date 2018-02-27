@@ -1,2 +1,3 @@
 # battleship
-Battleship game Human vs AI
+Battleship game 
+Human vs AI
