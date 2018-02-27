@@ -78,7 +78,6 @@ public class Battleship {
         called = true;
     }
     
-    
     public void setGrenade() {
         
         if(pc == true)
@@ -115,7 +114,6 @@ public class Battleship {
             return isship = true;
         else
             return isship = false;
-     
     }
     
     /**
@@ -201,7 +199,6 @@ public class Battleship {
         return col;
     }
    
-    
     public String getRowString(int r) {
         String row = "z";
         
